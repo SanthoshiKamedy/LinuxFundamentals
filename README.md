@@ -43,5 +43,13 @@ Linux
 - DPKG based APT package manner
 - Widely used for cloud deployments
 - GNOME based but differs visually
-
+# LINUX TERMINOLOGY
+Kernal
+distribution
+boot loader
+Service
+file system
+X window system
+Desktop environment
+Command Line
 
