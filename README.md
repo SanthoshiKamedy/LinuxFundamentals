@@ -8,3 +8,10 @@ We will use CentOS Stream and CentOS more often for activities, demonstrations, 
 
 The basic version of CentOS is also virtually identical to RHEL, the most popular Linux distribution in enterprise environments. However, CentOS 8 has no scheduled updates after 2021. The replacement is CentOS 8 Stream. The difference between the two versions is CentOS Stream gets updates before RHEL, while CentOS gets them after. For most purposes this matters very little and not at all for this course. While there are alternatives to CentOS Stream that look more like the older CentOS, for this course we find CentOS 8 Stream works just fine.
 
+# KEY FACTS
+Fedora serves as an upstream testing platform for RHEL.
+CentOS is a close clone of RHEL; in fact, CentOS has been part of Red Hat since 2014.
+A heavily patched version 4.18 kernel is used in RHEL/CentOS 8 Stream, while version 5.14 is used in RHEL/CentOS 9 Stream.
+It supports multiple hardware platforms.
+It uses dnf, the RPM-based package manager (covered in detail later) to install, update, and remove packages in the system.
+RHEL is widely used by enterprises which host their own systems.
