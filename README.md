@@ -15,3 +15,29 @@ A heavily patched version 4.18 kernel is used in RHEL/CentOS 8 Stream, while ver
 It supports multiple hardware platforms.
 It uses dnf, the RPM-based package manager (covered in detail later) to install, update, and remove packages in the system.
 RHEL is widely used by enterprises which host their own systems.
+
+
+#Requirements
+at least one Linux distribution install
+# MAJOR LINUX DISTRIBUTION FAMILY
+# Red Hat family systems
+CentOS
+# SUSE Family System
+Open SUSE
+# Debian Family System
+Ubuntu
+Linux
+# RED HAT FAMILY (RHEL)
+# KEY FACTS ABOUT THE RED HAT FAMILY
+-Fedora an upstream testing platform
+- CentOS is a Clone of RHEL
+- Yum Package Manager
+- Widely used by Enterprices
+# THE SUSE FAMILY KEY FACTS
+- SLES IS Upstream for OPENSUSE
+- RPM -based Zypper package manager
+- YaST for system admin purpose
+- Widely Used in Retail
+# THE DEBIAN FAMILY KEY FACTS
+- 
+
