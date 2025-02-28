@@ -39,5 +39,9 @@ Linux
 - YaST for system admin purpose
 - Widely Used in Retail
 # THE DEBIAN FAMILY KEY FACTS
-- 
+- Debian family is upstream for UBUNTU
+- DPKG based APT package manner
+- Widely used for cloud deployments
+- GNOME based but differs visually
+
 
